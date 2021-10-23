@@ -21,12 +21,14 @@ html, body {
 .nav-list  {
   width:40% ;
   height: 80vh;
-  background-color: antiquewhite;
+  /*background-color: antiquewhite;*/
+  border:1px solid #fff;
   margin-left: 2px;
 }
 .nav-list:nth-child(1) {
   width:300px;
-  background-color: #cc99ff;
+  /*background-color: #cc99ff;*/
+  border:1px solid #fff;
 }
 .nav-item {
   margin-bottom: 5px;
@@ -50,4 +52,5 @@ html, body {
 }
 .son {
   margin-left: 10px;
+  color:#fff;
 }
